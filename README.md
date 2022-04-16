@@ -1,5 +1,5 @@
  
-
+Copyright (c) 2022 TripleOxygen
 
 > Open this page at [https://tripleoxygen345.github.io/mracer/](https://tripleoxygen345.github.io/mracer/)
 
